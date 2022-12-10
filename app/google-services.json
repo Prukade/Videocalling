@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320104828618",
+    "project_id": "video-c9ada",
+    "storage_bucket": "video-c9ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320104828618:android:78741575c0a9b65136ae33",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320104828618-c5ofrk0b9v1dgungksv3btc2tiadcc8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuXSYvKCt0DtxwNGpMn89cFUfPDOEZ7Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320104828618-c5ofrk0b9v1dgungksv3btc2tiadcc8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
